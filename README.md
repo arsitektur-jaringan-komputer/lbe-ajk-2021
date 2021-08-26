@@ -286,11 +286,17 @@ Sub-Materi
 ##### 2. ls
 *list*. Untuk menampilkan file-file apa saja yang ada di suatu directory.  
 ![ls](img/ls.png)  
-Parameter yang sering dipakai pada perintah ls adalah `-a` dan `-l`.
+Parameter yang sering dipakai pada perintah ls adalah `-a`, `-l`, `-t`, `-h`, dan `-r`. Parameter digunakan untuk mengontrol suatu program dari terminal. Parameter bisa digabungkan, dan urutan letak parameter tidak memengaruhi hasil.
 - Saat menggunakan parameter `-a` maka semua file akan ditampikan, termasuk yang *hidden* (diawali dengan `.`).  
 ![ls -a](img/ls_a.png)
-- Sedangkan parameter `-l` menampilkan file yang tidak *hidden* dalam format *long-list*.  
+- Sedangkan parameter `-l` menampilkan file yang tidak *hidden* dalam format *long-list*. Long list sendiri yaitu sebuah mode di mana properti2 file seperti ukuran dan tanggal edit file diperlihatkan.
 ![ls -l](img/ls_l.png)
+- Parameter `-t` akan mengurutkan file berdasarkan waktu dieditnya (di screenshot di bawah ini, `-t` digabungkan dengan parameter `-l` agar terlihat tanggal editnya)
+![image](https://user-images.githubusercontent.com/11045113/130966408-7a6e5391-f322-4bb8-bb52-7f044a0be78e.png)
+- Parameter `-h` akan menampilkan ukuran file dengan format yang mudah dibaca manusia (human readable). Perbedaan antara `lt` dan `lth` dapat dilihat di bawah
+![image](https://user-images.githubusercontent.com/11045113/130967875-b375f366-804d-40d3-874b-1921a38ae272.png)
+- Parameter `-r` akan membalik urutan file, dapat dilihat contoh di bawah
+![image](https://user-images.githubusercontent.com/11045113/130968786-b7a3024a-1449-4fd8-8199-d21918cae729.png)
 
 ##### 3. man
 *manuals*. Digunakan untuk melihat fungsi dan parameter dari suatu comman
