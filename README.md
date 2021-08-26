@@ -271,6 +271,7 @@ Tidak semua paket software langsung ada di repository, itu sebabnya kita harus t
 
 # Command Line Interface 
 CLI adalah akronim dari Command Line Interface. Dengan program ini, user bisa mengetikkan perintah dalam bentuk teks dan memberikan instruksi pada komputer untuk mengerjakan tugas tertentu. Jika anda sering otak-atik Windows anda pasti pernah sekali atau dua kali menggunakan cmd/ command prompt. cmd sendiri adalah shell default pada Windows, sedangkan shell yang paling sering digunakan di Linux adalah bash shell. Namun, bash memiliki jauh lebih banyak fungsi daripada cmd, misal, anda bisa mengoperasikan linux (bahkan browsing) hanya melalui bash, sedangkan di windows, hal itu hampir tidak mungkin. Berikut adalah ilustrasi yang menggambarkan perbedaan kekuatan mereka.
+
 ![image](https://user-images.githubusercontent.com/11045113/130975335-53189dbe-668a-4da4-983c-5a45db708959.png)
 
 Sub-Materi
