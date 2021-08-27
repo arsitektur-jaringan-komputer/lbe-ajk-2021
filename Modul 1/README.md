@@ -372,6 +372,10 @@ Digunakan untuk menampilkan setiap baris pada suatu file yang mengandung kata ya
 Syntax-nya adalah `grep "[katayangdicari]" [namafile]`  
 ![grep](img/grep.png)
 
+Dalam bash shell juga ada fitur bernama pipeline, dengan pipeline, kita bisa mengirim output dari suatu command ke command lain, misal kita ingin mencari file/folder yang memiliki kata 'data', maka kita bisa mengirim output dari 'ls' ke 'grep'
+
+![image](https://user-images.githubusercontent.com/11045113/131155462-3f690751-a94f-4878-9a46-df57c605336d.png)
+
 ##### 13. zip
 Command ini digunakan untuk melakukan compress data menjadi bentuk zip. Syntax-nya adalah ```zip [namafilezip] [file1] [file2]```.
 Misalnya kita ingin mengompress file **makanan** dan **cemilan** menjadi  **energi.zip** .
