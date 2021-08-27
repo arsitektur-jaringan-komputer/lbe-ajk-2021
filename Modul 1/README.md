@@ -16,7 +16,7 @@ Sub-materi
 3. [Perbedaan Linux, MAC, dan Windows](#3-perbedaan-linux-mac-dan-windows)
 
 ### 1. Pengertian Linux
-**Linux** adalah nama yang diberikan kepada sistem operasi bertipe Unix. Linux merupakan salah satu contoh hasil pengembangan perangkat lunak bebas dan sumber terbuka utama. Seperti perangkat lunak bebas dan sumber terbuka lainnya pada umumnya, kode sumber Linux dapat dimodifikasi, digunakan dan didistribusikan kembali secara bebas oleh siapa saja.
+**Linux** adalah nama yang diberikan kepada sistem operasi bertipe **Unix**. Linux merupakan salah satu contoh hasil pengembangan perangkat lunak *open source*. Seperti perangkat *open source* lainnya pada umumnya, kode sumber Linux dapat dimodifikasi, digunakan dan didistribusikan kembali secara bebas oleh siapa saja.
 
 ### 2. Distro Linux
 **Distro Linux** (singkatan dari **distribusi Linux**) adalah sebutan untuk sistem operasi komputer dan aplikasinya, merupakan keluarga yang menggunakan kernel Linux.
@@ -30,7 +30,7 @@ Red Hat ini merupakan salah satu Distro Linux yang dikembangkan oleh salah satu 
 **2. CentOS**
 
 ![CentOS](img/centos-150x150.jpg  "CentOS")  
-CentOS merupakan singkatan dari _Community Enterprise Operating System_dan merupakan salah satu contoh Distro Linux yang dikembangkan oleh The CentOS Project. Sistem operasi ini dibuat menggunakan kode sumber yang berasal dari Red Hat. Oleh karena itu, dalam hal produk CentOs ini sangatlah mirip dengan Red Hat Enterprise Linux.
+CentOS merupakan singkatan dari _Community Enterprise Operating System_ dan merupakan salah satu contoh Distro Linux yang dikembangkan oleh The CentOS Project. Sistem operasi ini dibuat menggunakan kode sumber yang berasal dari Red Hat. Oleh karena itu, dalam hal produk CentOs ini sangatlah mirip dengan Red Hat Enterprise Linux.
 
 **3. Fedora**  
 
@@ -41,7 +41,7 @@ Fedora ini merupakan salah satu Distro Linux yang dkembangkan karena disponsori 
 
 ![openSUSE](img/openSUSE-150x150.png  "openSUSE")  
 
-openSUSE ini juga termasuk salah satu sistem operasi yang didirikan diatas kernel Linux atau biasa disebut Distro Linux. openSUSE Project selaku pihak pengembang menciptakan sistem operasi ini dengan tujuan agar penggunaan Linux dapat lebih maju dengan kinerjanya yang stabil dan ramah pengguna. openSUSE ini lebih sering digunakan sebagai sistem operasi desktop/ server.
+openSUSE ini juga termasuk salah satu sistem operasi yang didirikan diatas kernel Linux atau biasa disebut Distro Linux. openSUSE Project selaku pihak pengembang menciptakan sistem operasi ini dengan tujuan agar penggunaan Linux dapat lebih maju dengan kinerjanya yang stabil dan ramah pengguna. openSUSE ini lebih sering digunakan sebagai sistem operasi desktop/server.
 
 **5. Mandrake (Mandriva)**  
 
@@ -215,8 +215,8 @@ Pada struktur direktori Linux tidak akan ditemukan drive C, drive D, dan drive-d
 ![Struktur direktori Linux](img/linux.jpg "Struktur direktori Linux")
 
 Penjelasan beberapa direktori yang perlu kalian ketahui: 
-- **/** ("root") : Merupakan root atau akar dari seluruh direktori global. Partisi dimana diletakkan/ (root system) akan menjadi direktori sistem atau partisi pokok. Hanya bisa diakses oleh user root atau super user.
-- **/bin** (user binaries) : Memuat program arahan yang merupakan sebagian dari sistem operasi Linux. Direktori ini meng-handle perintah standar Linux, seperti cd, ls, cp, dll.
+- **/** ("root") : Merupakan root atau akar dari seluruh direktori global. Hanya bisa diakses oleh user root atau super user.
+- **/bin** (user binaries) : Memuat program perintah yang merupakan sebagian dari sistem operasi Linux. Direktori ini meng-handle perintah standar Linux, seperti cd, ls, cp, dll.
 - **/boot** (boot loader files) : Direktori yang berisi file-file yang berhubungan dengan boot loader, contohnya Grub boot manager, File Kernel initrd, vmlinux, dll.
 - **/dev** (device files) : Memuat semua file penting.
 - **/etc** (configuration files) : Berisi file-file konfigurasi sistem. Selain itu, juga berisi file yang dijalankan ketika start up.
