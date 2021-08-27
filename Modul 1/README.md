@@ -974,7 +974,7 @@ Cara lain untuk mencoba, dapat dicoba dengan memasukkan kode berikut pada file i
 
 ```php
 <?php
-   echo "Coba PHP di Web Server Apache pada waktu Pelatihan Linux 2019";
+   echo "Coba PHP di Web Server Apache pada waktu LBE AJK 2021";
 ?>
 ```
 
@@ -1068,8 +1068,8 @@ __Referensi__<br>
 
 # Tugas Mandiri
 
-Berikut adalah beberapa latihan yang dapat dilakukan ketika waktu luang untuk menyempurnakan sesi Pelatihan Linux 2019.
-1. Menggunakan text editor **nano** untuk menuliskan kesan dan pesan serta kritik dan saran terhadap pelaksanaan Pelatihan Linux 2019 di SMAN 1 KEDUNGWARU Tulungagung.
+Berikut adalah beberapa latihan yang dapat dilakukan ketika waktu luang untuk menyempurnakan sesi LBE AJK 2021.
+1. Menggunakan text editor **nano** untuk menuliskan kesan dan pesan serta kritik dan saran terhadap pelaksanaan LBE AJK 2021.
 2. Menampilkan **proses** yang berlangsung pada ubuntu server di Virtualbox menggunakan aplikasi **htop***. (petunjuk : install aplikasi dengan perintah `sudo apt-get install htop`)
 3. Membuat user baru bernama **tux** dengan hak akses superuser (*sudoers**) pada ubuntu server di Virtualbox. (petunjuk : sudoers adalah group untuk *superuser*)
 4. Mengatur hak akses file untuk user **tux** dengan hanya pemilik file yang dapat membaca, menulis, dan mengeksekusi. (petunjuk : ketentuan `700`)
