@@ -682,7 +682,7 @@ Semua paket yang dibuthkan oleh paket yang akan diinstall juga akan terunduh dan
 
 # Tugas Mandiri
 
-Berikut adalah beberapa latihan yang dapat dilakukan ketika waktu luang untuk menyempurnakan sesi LBE AJK 2021. Tidak wajib dikumpulkan, hanya sebagai latihan saja. Namun, jika ingin mengumpulkan, ss tugas kalian (terminalnya), lalu kirim ke pc salah satu admin, nanti akan mendapatkan nilai tambah.
+Berikut adalah beberapa latihan yang dapat dilakukan ketika waktu luang untuk menyempurnakan sesi LBE AJK 2021. Tidak wajib dikumpulkan, hanya sebagai latihan saja. Namun, jika ingin mengumpulkan, ss tugas kalian (isi file dan terminalnya), lalu kirim ke pc salah satu admin, nanti akan mendapatkan nilai tambah.
 
 1.a. Buat folder format nrp_nama kalian di folder home di server LBE AJK (kalo belum ditutup), lalu kerjakan tugas2 di bawah ini di sana
 
