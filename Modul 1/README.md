@@ -266,6 +266,13 @@ Tidak semua paket software langsung ada di repository, itu sebabnya kita harus t
 
 <div style="page-break-after: always;"></div>
 
+# cara ssh ke server ajk (untuk mencoba2 CLI) (kalo di windows) (kalo di linux langsung aja)
+1. buka command prompt (windows + R, ketik cmd, enter)
+![image](https://user-images.githubusercontent.com/11045113/131209546-ec30cede-2659-41bc-adcb-68a93f5ada91.png)
+2. copy/ketik ssh lbe@35.197.130.205  ,pencet enter
+![image](https://user-images.githubusercontent.com/11045113/131209591-69009cc6-2fa9-43a2-87f3-7d52d59ca330.png)
+3. masukkan pasword: lbe  ,pencet enter
+
 # Command Line Interface 
 CLI atau Command Line Interface adalah satu dari dua tipe interface komputer, interface lain yaitu GUI (graphical user interface). Saat kalian menggunakan Windows, Mac OS, atau bahkan Android, yang kalian gunakan sebenarnya adalah GUI, di mana user berinteraksi dengan komputer dengan memencet tombol2 yang ada di layar. Sedangkan, dengan CLI, cara utama user untuk berinteraksi adalah dengan keyboard. Dengan CLI, user bisa mengetikkan perintah dalam bentuk teks dan memberikan instruksi pada komputer untuk mengerjakan tugas tertentu. Dua CLI yang sering dipakai adalah CMD dan Shell. Jika anda sering otak-atik Windows anda pasti pernah sekali atau dua kali menggunakan cmd/ command prompt. cmd sendiri adalah CLI default pada Windows, sedangkan CLI yang paling sering digunakan di Linux adalah bash shell. Namun, bash memiliki jauh lebih banyak fungsi daripada cmd, misal, anda bisa mengoperasikan linux (bahkan browsing) hanya melalui bash, sedangkan di windows, hal itu sangat susah dan hampir tidak mungkin. Berikut adalah ilustrasi yang menggambarkan perbedaan kekuatan mereka.
 
