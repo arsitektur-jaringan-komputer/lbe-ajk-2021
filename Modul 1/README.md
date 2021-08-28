@@ -686,5 +686,4 @@ Berikut adalah beberapa latihan yang dapat dilakukan ketika waktu luang untuk me
 
 0. Buat folder nama kalian di folder home di server LBE AJK, lalu kerjakan tugas2 di bawah ini di sana
 1. Menggunakan text editor **vim** untuk menuliskan kesan dan pesan serta kritik dan saran terhadap pelaksanaan LBE AJK 2021 Hari pertama.
-2. Menampilkan **proses** yang berlangsung pada ubuntu server di Virtualbox menggunakan aplikasi **htop***. (petunjuk : install aplikasi dengan perintah `sudo apt install htop`)
-3. Membuat dua file (nama file bebas) di folder Downloads menggunakan `touch` lalu, menggunakan `grep` dan `ls` untuk melihat file mana yang namanya ada huruf `a`
+2. Membuat dua file (nama file bebas) di folder Downloads menggunakan `touch` lalu, menggunakan `grep` dan `ls` untuk melihat file mana yang namanya ada huruf `a`
