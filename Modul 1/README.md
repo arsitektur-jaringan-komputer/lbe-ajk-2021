@@ -686,5 +686,5 @@ Berikut adalah beberapa latihan yang dapat dilakukan ketika waktu luang untuk me
 
 0. Buat folder format nrp_nama kalian di folder home di server LBE AJK (kalo belum ditutup), lalu kerjakan tugas2 di bawah ini di sana
 0b. Kalo server udah ditutup, install linux di laptop anda (tutorial ada di atas), lalu kerjakan di sana
-1. Menggunakan text editor **vim** untuk menuliskan kesan dan pesan serta kritik dan saran terhadap pelaksanaan LBE AJK 2021 Hari pertama.
-2. Membuat dua file (nama file bebas) di folder Downloads menggunakan `touch` lalu, menggunakan `grep` dan `ls` untuk melihat file mana yang namanya ada huruf `a`
+2. Menggunakan text editor **vim** untuk menuliskan kesan dan pesan serta kritik dan saran terhadap pelaksanaan LBE AJK 2021 Hari pertama.
+3. Membuat dua file (nama file bebas) di folder Downloads menggunakan `touch` lalu, menggunakan `grep` dan `ls` untuk melihat file mana yang namanya ada huruf `a`
