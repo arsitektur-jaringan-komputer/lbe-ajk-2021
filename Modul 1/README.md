@@ -270,7 +270,7 @@ Tidak semua paket software langsung ada di repository, itu sebabnya kita harus t
 <div style="page-break-after: always;"></div>
 
 # Command Line Interface 
-CLI adalah akronim dari Command Line Interface. Dengan CLI, user bisa mengetikkan perintah dalam bentuk teks dan memberikan instruksi pada komputer untuk mengerjakan tugas tertentu. Salah satu jenis CLI adalah Shell. Jika anda sering otak-atik Windows anda pasti pernah sekali atau dua kali menggunakan cmd/ command prompt. cmd sendiri adalah shell default pada Windows, sedangkan shell yang paling sering digunakan di Linux adalah bash shell. Namun, bash memiliki jauh lebih banyak fungsi daripada cmd, misal, anda bisa mengoperasikan linux (bahkan browsing) hanya melalui bash, sedangkan di windows, hal itu sangat susah dan hampir tidak mungkin. Berikut adalah ilustrasi yang menggambarkan perbedaan kekuatan mereka.
+CLI atau Command Line Interface adalah satu dari dua tipe interface komputer, interface lain yaitu GUI (graphical user interface). Saat kalian menggunakan Windows, Mac OS, atau bahkan Android, yang kalian gunakan sebenarnya adalah GUI, di mana user berinteraksi dengan komputer dengan memencet tombol2 yang ada di layar. Sedangkan, dengan CLI, cara utama user untuk berinteraksi adalah dengan keyboard. Dengan CLI, user bisa mengetikkan perintah dalam bentuk teks dan memberikan instruksi pada komputer untuk mengerjakan tugas tertentu. Salah satu jenis CLI adalah Shell. Jika anda sering otak-atik Windows anda pasti pernah sekali atau dua kali menggunakan cmd/ command prompt. cmd sendiri adalah shell default pada Windows, sedangkan shell yang paling sering digunakan di Linux adalah bash shell. Namun, bash memiliki jauh lebih banyak fungsi daripada cmd, misal, anda bisa mengoperasikan linux (bahkan browsing) hanya melalui bash, sedangkan di windows, hal itu sangat susah dan hampir tidak mungkin. Berikut adalah ilustrasi yang menggambarkan perbedaan kekuatan mereka.
 
 ![image](https://user-images.githubusercontent.com/11045113/130975335-53189dbe-668a-4da4-983c-5a45db708959.png)
 
@@ -1072,8 +1072,7 @@ __Referensi__<br>
 
 # Tugas Mandiri
 
-Berikut adalah beberapa latihan yang dapat dilakukan ketika waktu luang untuk menyempurnakan sesi LBE AJK 2021.
-1. Menggunakan text editor **nano** untuk menuliskan kesan dan pesan serta kritik dan saran terhadap pelaksanaan LBE AJK 2021.
+Berikut adalah beberapa latihan yang dapat dilakukan ketika waktu luang untuk menyempurnakan sesi LBE AJK 2021. Tidak perlu dikumpulkan, hanya sebagai latihan saja.
+1. Menggunakan text editor **vim** untuk menuliskan kesan dan pesan serta kritik dan saran terhadap pelaksanaan LBE AJK 2021 Hari pertama.
 2. Menampilkan **proses** yang berlangsung pada ubuntu server di Virtualbox menggunakan aplikasi **htop***. (petunjuk : install aplikasi dengan perintah `sudo apt-get install htop`)
-3. Membuat user baru bernama **tux** dengan hak akses superuser (*sudoers**) pada ubuntu server di Virtualbox. (petunjuk : sudoers adalah group untuk *superuser*)
-4. Mengatur hak akses file untuk user **tux** dengan hanya pemilik file yang dapat membaca, menulis, dan mengeksekusi. (petunjuk : ketentuan `700`)
+3. Membuat dua file (nama file bebas) di folder Downloads menggunakan `touch` lalu, menggunakan `grep` dan `ls` untuk melihat file mana yang namanya ada huruf `a`
