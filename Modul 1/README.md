@@ -684,6 +684,6 @@ Semua paket yang dibuthkan oleh paket yang akan diinstall juga akan terunduh dan
 
 Berikut adalah beberapa latihan yang dapat dilakukan ketika waktu luang untuk menyempurnakan sesi LBE AJK 2021. Tidak wajib dikumpulkan, hanya sebagai latihan saja. Namun, jika ingin mengumpulkan, ss isi folder kalian, lalu kirim ke pc salah satu admin, nanti akan mendapatkan nilai tambah.
 
-0. Buat folder nama kalian di folder home di server LBE AJK, lalu kerjakan tugas2 di bawah ini di sana
+0. Buat folder format nrp_nama kalian di folder home di server LBE AJK, lalu kerjakan tugas2 di bawah ini di sana
 1. Menggunakan text editor **vim** untuk menuliskan kesan dan pesan serta kritik dan saran terhadap pelaksanaan LBE AJK 2021 Hari pertama.
 2. Membuat dua file (nama file bebas) di folder Downloads menggunakan `touch` lalu, menggunakan `grep` dan `ls` untuk melihat file mana yang namanya ada huruf `a`
