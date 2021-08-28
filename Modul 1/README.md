@@ -675,7 +675,7 @@ Semua paket yang dibuthkan oleh paket yang akan diinstall juga akan terunduh dan
 
 # Tugas Mandiri
 
-Berikut adalah beberapa latihan yang dapat dilakukan ketika waktu luang untuk menyempurnakan sesi LBE AJK 2021. Tidak wajib dikumpulkan, hanya sebagai latihan saja. Namun, jika ingin mengumpulkan, screenshot lalu kirim ke pc salah satu admin.
+Berikut adalah beberapa latihan yang dapat dilakukan ketika waktu luang untuk menyempurnakan sesi LBE AJK 2021. Tidak wajib dikumpulkan, hanya sebagai latihan saja. Namun, jika ingin mengumpulkan, screenshot jawaban kalian, lalu kirim ke pc salah satu admin, nanti akan mendapatkan nilai tambah.
 1. Menggunakan text editor **vim** untuk menuliskan kesan dan pesan serta kritik dan saran terhadap pelaksanaan LBE AJK 2021 Hari pertama.
 2. Menampilkan **proses** yang berlangsung pada ubuntu server di Virtualbox menggunakan aplikasi **htop***. (petunjuk : install aplikasi dengan perintah `sudo apt install htop`)
 3. Membuat dua file (nama file bebas) di folder Downloads menggunakan `touch` lalu, menggunakan `grep` dan `ls` untuk melihat file mana yang namanya ada huruf `a`
