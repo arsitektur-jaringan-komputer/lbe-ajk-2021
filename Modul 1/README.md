@@ -398,7 +398,7 @@ Sesudah clear:
 ##### 17. tree
 Digunakan untuk menampilkan list directory.
 Untuk menggunakan command ini, user harus meng-*install*-nya terlebih dahulu dengan command
-`sudo apt-get install tree`  
+`sudo apt install tree`  
 ![tree](img/tree.png)
 
 ##### 18. mount
@@ -480,10 +480,10 @@ vim merupakan singkatan dari "Vi IMprovised" dan merupakan salah satu teks edito
 Untuk lebih jelas perbedaan antara vim dan vi : https://github.com/vim/vim/blob/master/runtime/doc/vi_diff.txt
 ##### Install vim teks editor
 ```sh
-$ sudo apt-get update
+$ sudo apt update
 ```
 ```sh
-$ sudo apt-get install -y vim
+$ sudo apt install -y vim
 ```
 ##### Membuat dan meng-insert teks 
 Syntax yang biasa digunakan adalah `vim [nama-file]`. Setelah command tersebut dijalankan akan terlihat lambang `~` pada tiap baris yang kosong. 
@@ -644,14 +644,14 @@ $ ssh [hostname]
 
 ### 6. Menginstall Software
 
-##### 1. apt-get update
+##### 1. apt update
 ```sh
-$ sudo apt-get update
+$ sudo apt update
 ```
-command **apt-get** dengan opsi **_update_** akan menyinkronisasi ulang file indeks paket dari sumber mereka. indeks-indeks dari paket yang tersedia akan diambil dari lokasi-lokasi yang telah ditentukan di _etc/apt/sources.list_.
-##### 2. apt-get install pkg
+command **apt** dengan opsi **_update_** akan menyinkronisasi ulang file indeks paket dari sumber mereka. indeks-indeks dari paket yang tersedia akan diambil dari lokasi-lokasi yang telah ditentukan di _etc/apt/sources.list_.
+##### 2. apt install pkg
 ```sh
-$ sudo apt-get install <packages>
+$ sudo apt install <packages>
 ```
 Opsi **install** ini diikuti oleh beberapa nama paket yang akan diinstall. 
 Semua paket yang dibuthkan oleh paket yang akan diinstall juga akan terunduh dan terinstall. Berkas /etc/apt/sources.list digunakan untuk menentukan lokasi repositori dari paket yang dimaksud.
@@ -677,5 +677,5 @@ Semua paket yang dibuthkan oleh paket yang akan diinstall juga akan terunduh dan
 
 Berikut adalah beberapa latihan yang dapat dilakukan ketika waktu luang untuk menyempurnakan sesi LBE AJK 2021. Tidak perlu dikumpulkan, hanya sebagai latihan saja.
 1. Menggunakan text editor **vim** untuk menuliskan kesan dan pesan serta kritik dan saran terhadap pelaksanaan LBE AJK 2021 Hari pertama.
-2. Menampilkan **proses** yang berlangsung pada ubuntu server di Virtualbox menggunakan aplikasi **htop***. (petunjuk : install aplikasi dengan perintah `sudo apt-get install htop`)
+2. Menampilkan **proses** yang berlangsung pada ubuntu server di Virtualbox menggunakan aplikasi **htop***. (petunjuk : install aplikasi dengan perintah `sudo apt install htop`)
 3. Membuat dua file (nama file bebas) di folder Downloads menggunakan `touch` lalu, menggunakan `grep` dan `ls` untuk melihat file mana yang namanya ada huruf `a`
