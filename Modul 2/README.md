@@ -58,7 +58,7 @@ Potongan data yang leih kecil dan telah diberikan sequence number, potongan ters
 
 ### Layer 3 - Network
 
-Network Layer bertanggung jawab dalam mendefinisikan alamat IP (Internet Protocol). Baik alamat IP pengirim maupun tujuan. Hal ini membuat setiap komputer agar dapat terhubung didalam 1 jaringan. Fungsi dari beberapa hardware jaringan seperti router dan juga hub berjalan pada layer ini, berfungsi untuk melakukan proses routing serta membuat header pada segments yang ada. Ketika segments sudah diberi header. Nama nya berubah menjadi _packets_.
+Network Layer bertanggung jawab dalam mendefinisikan alamat IP (Internet Protocol). Baik alamat IP pengirim maupun tujuan. Hal ini membuat setiap komputer agar dapat terhubung didalam 1 jaringan. Fungsi dari beberapa hardware jaringan seperti router dan juga hub berjalan pada layer ini. Netwok layer juga berfungsi untuk melakukan proses routing serta membuat header pada segments yang ada. Ketika segments sudah diberi header. Nama nya berubah menjadi _packets_.
 
 ![packet_header](https://user-images.githubusercontent.com/75016595/132091362-cbdc032a-5309-4cbd-8fe7-6159f5f49dcb.png)
 
