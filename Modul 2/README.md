@@ -1,3 +1,8 @@
+# Materi
+1. [OSI Layer](#osi-layer)
+2. 
+
+# OSI Layer
 ## Apa itu OSI Layer?
 
 Biasa disebut sebagai OSI Layer Model. OSI merupakan singkatan dari Open System Interconnection. Standar ini dikembangkan oleh ISO – ‘International Organization of Standardization‘ - pada tahun 1984. OSI model merupakan sebuah konsep yang menggambarkan fungsi jaringan dan sistem telekomunikasi. Model lapisan ini yang nantinya harus dilewati oleh paket data. Proses transmisi melewati OSI layer ini terjadi setiap kali paket data akan ditransmisikan, baik itu transmisi paket data dari server, serta transmisi paket data menuju client.
