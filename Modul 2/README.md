@@ -54,7 +54,7 @@ Fungsi utama dari Transport Layer :
 - Membuat penomoran (sequence number) pada potongan data
 - Melakukan proses transmisi ulang pada potongan data yang hilang
 
-Potongan data yang leih kecil dan telah diberikan sequence number, potongan tersebut dikenal dengan nama **egments**.
+Potongan data yang leih kecil dan telah diberikan sequence number, potongan tersebut dikenal dengan nama **segments**.
 
 ### Layer 3 - Network
 
