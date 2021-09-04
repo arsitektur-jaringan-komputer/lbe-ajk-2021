@@ -68,13 +68,13 @@ Data Link Layer menyediakan transfer data node-to-node (antara dua node yang ter
 
 Layer ini merupakan layer yang paling kompleks diantara layer lainnya. Karna pada layer ini terdapat 2 sublayer yaitu MAC (Media Access Control) dan juga LLC (Logical Link Control). Tugas dari MAC adalah mengendalikan perangkat dari suatu jaringan yang mendapat akses dan juga izin ketika melakukan transmisi data. Sedangkan LLC sendiri bertugas mengidentifikasi kemudian membungkus protokol network layer dan juga melakukan kontrol terhadap koreksi kesalahan.
 
-Pada layer ini pula, _packets_ akan dilengkapi dengan beberapa informasi tambahan kembali, dan naamnya berubah menjadi _frames_
+Pada layer ini pula, _packets_ akan dilengkapi dengan beberapa informasi tambahan kembali, dan naamnya berubah menjadi **frames**.
 
 ### Layer 1 - Physical
 
 Physical layer mewakili representasi listrik dan fisik dari sebuah sistem. Ini mencakup semuanya mulai dari jenis kabel, topologi, frekuensi radio (seperti dalam sistem nirkabel 802.11), serta tata letak pin, voltase, dan persyaratan fisik lainnya. Kketika masalah jaringan terjadi, banyak profesional jaringan langsung ke lapisan fisik untuk memeriksa apakah semua kabel terhubung dengan benar dan steker listrik belum ditarik dari router, sakelar, atau komputer.
 
-Pada layer ini, setiap frames akan diubah menjadi bits. Bits inilah yang akan dikirim ke endpoint yang lain dalam jaringan.
+Pada layer ini, setiap frames akan diubah menjadi **bits**. Bits inilah yang akan dikirim ke endpoint yang lain dalam jaringan.
 
 ### Tambahan
 ![osi_layer_2_LI](https://user-images.githubusercontent.com/75016595/132080044-488a3c1d-2b88-4dc6-b182-66a6b08c5511.jpg)
