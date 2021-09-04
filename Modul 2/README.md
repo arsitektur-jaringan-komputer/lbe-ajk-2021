@@ -66,7 +66,7 @@ Network Layer bertanggung jawab dalam mendefinisikan alamat IP (Internet Protoco
 
 Data Link Layer menyediakan transfer data node-to-node (antara dua node yang terhubung langsung), menangani koreksi kesalahan dari Physical Layer, flow control, dan menetukan bagaimana perangkat-perangkat jaringan seperti hub, bridge, repeater, dan switch dapat beroperasi.
 
-Layer ini merupakan layer yang paling kompleks diantara layer lainnya. Karna pada layer ini terdapat 2 sublayer yaitu MAC (Media Access Control) dan juga LLC (Logical Link Control). Tugas dari MAC adalah mengendalikan perangkat dari suatu jaringan yang mendapat akses ke medium dan juga izin ketika melakukan transmisi data. Sedangkan LLC sendiri bertugas mengidentifikasi kemudian membungkus protokol network layer dan juga melakukan kontrol terhadap koreksi kesalahan.
+Layer ini merupakan layer yang paling kompleks diantara layer lainnya. Karna pada layer ini terdapat 2 sublayer yaitu MAC (Media Access Control) dan juga LLC (Logical Link Control). Tugas dari MAC adalah mengendalikan perangkat dari suatu jaringan yang mendapat akses dan juga izin ketika melakukan transmisi data. Sedangkan LLC sendiri bertugas mengidentifikasi kemudian membungkus protokol network layer dan juga melakukan kontrol terhadap koreksi kesalahan.
 
 Pada layer ini pula, _packets_ akan dilengkapi dengan beberapa informasi tambahan kembali, dan naamnya berubah menjadi _frames_
 
