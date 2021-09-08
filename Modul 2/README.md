@@ -1,6 +1,6 @@
 # Materi
 1. [OSI Layer](#osi-layer)
-2. Git
+2. [Git](#git)
 
 # OSI Layer
 Sub Materi
@@ -81,3 +81,7 @@ Pada layer ini, setiap frames akan diubah menjadi **bits**. Bits inilah yang aka
 
 ### OSI Model | TCP/IP Model
 ![osi vs tcpip](https://user-images.githubusercontent.com/75016595/132092697-54961411-73f2-426d-8184-2f5769822952.png)
+
+# Git
+
+Materi git dapat diakses pada [link](https://docs.google.com/presentation/d/19Fl4OFB5DwIAEtbe4k4uHo3IYCdHm_iHbXu11d432T8/edit?usp=sharing) berikut.
