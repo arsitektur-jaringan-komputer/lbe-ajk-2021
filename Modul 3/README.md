@@ -35,6 +35,9 @@ DNS adalah sebuah sistem yang mengubah URL website ke dalam bentuk IP Address. T
 * **Third-Level Domain atau subdomain** merupakan bagian dari domain utama yang berdiri sendiri. Apabila domain diibaratkan sebagai rumah, subdomain adalah salah satu  ruang khusus di rumah itu sendiri. contoh pada gambar adalah en  
 * **Hostname** atau bisa disebut juga dengan scheme. Ini merupakan bagian yang mengawali sebuah URL. Bagian ini menunjukkan sebuah fungsi dari sebuah website atau halamannya. Contoh paling banyak digunakan, yaitu HTTPS atau Hypertext Transfer Protocol Secure.  
 
+## Link Materi Praktik
+https://github.com/Arrizki16/deploy-laravel-with-nginx  
+
 ## Referensi
 https://umbraco.com/knowledge-base/deployment/  
 https://www.dicoding.com/blog/apa-itu-web-server-dan-fungsinya/#:~:text=Web%20server%20adalah%20sebuah%20software,client%20dalam%20bentuk%20halaman%20web.  
